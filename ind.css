@@ -32,10 +32,10 @@ li{
   background-color: black;
   color: white;
 }.dark-mode .nv a{
- color: rgb(10, 81, 57);
+ color: rgb(38, 189, 139);
 }
 .dark-mode .nv a:hover{
-  color: rgb(107, 209, 187);
+  color: rgb(142, 216, 200);
 }
 .prsnl{
  
@@ -62,17 +62,17 @@ li{
   border-radius: 36px;
   font-weight: bold;
   cursor: pointer;
-  background-color: #adceba;
+  background-color: rgb(38, 189, 139);
 }
 .btns button:hover{
-  background-color: rgb(130, 215, 139);
+  background-color: rgb(153, 228, 193);
 }
 .nv a{
   padding: 12px;
   text-decoration: none;
-  color:  #021c25;
+  color: rgb(4, 115, 78);
 }.nv a:hover{
-  color: rgb(141, 187, 187);
+  color:  #7D8C1F;
 }
 h1{
   font-family: 'Source Code Pro', monospace;
@@ -105,9 +105,9 @@ h1{
   padding-top: 22px;
   padding-left: 46px;
   padding-bottom:2rem ;
-  border-left: 10px solid rgb(75, 6, 6);
+  border-left: 10px solid rgb(6, 75, 50);
 }.contactclass p i{
-   color: brown;
+   color: rgb(4, 61, 40);
    margin-right: 15px;
    margin-left: 30px;
    font-size: 25px;
